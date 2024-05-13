@@ -52,7 +52,7 @@ Mostly it is styled in the **universal selector** part in the css:
 }  
 ```  
 Box-sizing allows us to include the padding and border in an element's total width and height instead of adding to it. 
-In the above example, the width of the div will be **100px-20px-10px=60px**.  
+In the above example, the width of the div will be **100px-20px-20px-10px-10px=40px**.  
 ### Refer from:  
 [Box-Model W3schools](https://www.w3schools.com/css/css_boxmodel.asp)  
 [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
